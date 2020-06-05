@@ -1,10 +1,10 @@
 # ECML/PKDD 2020 Code of Conduct
 
-The organizers of ECML/PKDD 2020 are dedicated to providing a harassment-free conference experience for everyone regardless of age, gender, sexual orientation, disability, physical appearance, race, or religion (or lack thereof).
+The organizers of ECML/PKDD 2020 are dedicated to providing a welcoming inclusive and harassment-free conference experience for everyone regardless of age, color, physical appearance, disability, ethnicity, family status, gender identity, labor union membership, military status, nationality, race, religion or belief (or lack or thereof), sex, sexual orientation, or any other factor.
 
 All participants (including attendees, speakers, sponsors and volunteers) at ECML/PKDD 2020 are required to agree to the following code of conduct.
 
-The code of conduct applies to all conference activities including talks, panels, workshops, and social events. It extends to conference-specific exchanges on social media, for instance posts tagged with the identifier of the conference (e.g. #ecmlpkdd2020 on Twitter), replies to such posts, and replies to the official social media account (e.g. [ECMLPKDD](https://twitter.com/ECMLPKDD) on Twitter).
+The code of conduct applies to all conference activities including talks, panels, workshops, reviewing activities, and social events. It extends to conference-specific exchanges on social media, for instance posts tagged with the identifier of the conference (e.g. #ecmlpkdd2020 on Twitter), replies to such posts, and replies to the official social media account (e.g. [ECMLPKDD](https://twitter.com/ECMLPKDD) on Twitter).
 
 Organizers will enforce this code throughout and expect cooperation in ensuring a safe environment for all.
 
@@ -21,7 +21,7 @@ All conference participants agree to:
 Behavior that is unacceptable includes, but is not limited to:
 
 - Stalking
-- Deliberate intimidation
+- Deliberate intimidation (including via inappropriate / irrespecutful tone of voice)
 - Unwanted photography or recording
 - Sustained or willful disruption of talks or other events
 - Use of sexual or discriminatory imagery, comments, or jokes
