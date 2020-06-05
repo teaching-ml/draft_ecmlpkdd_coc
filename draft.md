@@ -28,8 +28,8 @@ irrespecutful tone of voice)
 - Sustained or willful disruption of talks or other events
 - Use of sexual or discriminatory imagery, comments, or jokes
 - Offensive comments related to age, gender, sexual orientation, disability, race or religion
-- Inappropriate physical contact, which can include grabbing, or massaging or hugging without consent.
-- Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information.
+- Inappropriate physical contact, which can include grabbing, or massaging or hugging without consent
+- Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information
 
 If you are asked to stop harassing behaviour you should stop immediately. Even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all conference attendees you should stop.  
 
@@ -47,10 +47,10 @@ Sponsors should not use sexualized images, activities, or other material. Booth 
 
 The organizing committee reserves the right to determine the appropriate response for all code of conduct violations. Potential responses include:
 
-- a formal warning to stop harassing behavior
-- expulsion from the conference
-- removal of sponsor displays or conference posters
-- cancellation or early termination of talks or other contributions to the program
+- A formal warning to stop harassing behavior
+- Expulsion from the conference
+- Removal of sponsor displays or conference posters
+- Cancellation or early termination of talks or other contributions to the program
 
 Refunds may not be given in case of expulsion.
 
@@ -71,7 +71,7 @@ Conference staff will also provide support to victims, including, but not limite
 - Providing an escort within ECML-PKDD 2020 and affiliated events.
 - Contacting hotel/venue security or local law enforcement
 - Briefing key event staff for response/victim assistance
-- And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.  
+- And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference
 
 *ECML-PKDD 2020 Diversity, Equity, & Inclusion Leadership*
 
