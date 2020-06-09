@@ -24,16 +24,19 @@ All conference participants agree to:
 
 Behavior that is unacceptable includes, but is not limited to:
 
-- Stalking
-- Deliberate intimidation (including via inappropriate 
 
-irrespecutful tone of voice)
-- Unwanted photography or recording
-- Sustained or willful disruption of talks or other events
-- Use of sexual or discriminatory imagery, comments, or jokes
+- Violence, threats of violence or violent language directed against another person.
+- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
 - Offensive comments related to age, gender, sexual orientation, disability, race or religion
-- Inappropriate physical contact, which can include grabbing, or massaging or hugging without consent
-- Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information
+- Posting or displaying sexually explicit or violent material.
+- Posting or threatening to post other people's personally identifying information ("doxing").
+- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+- Inappropriate photography or recording.
+- Inappropriate physical contact. You should have someone's consent before touching them.
+- Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+- Deliberate intimidation, stalking or following, including via inappropriate irrespecutful tone of voice (online or in person).
+- Advocating for, or encouraging, any of the above behavior.
+- Sustained or willful disruption of talks or other events.
 
 If you are asked to stop harassing behaviour you should stop immediately. Even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all conference attendees you should stop.  
 
