@@ -12,9 +12,13 @@ Organizers will enforce this code throughout and expect cooperation in ensuring 
 
 All conference participants agree to:
 
+- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+- Exercise consideration and respect in your speech and actions.
+- Attempt collaboration before conflict.
 - Be considerate in language and actions, and respect the boundaries of fellow participants.
 - Refrain from demeaning, discriminatory, or harassing behaviour and language. Please refer to Unacceptable Behavior for more details.
-- Alert a member of the staff or organizing team, identifiable by t-shirt & badge (further description pending), if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. Please refer to the section titled, What To Do If You Witness or Are Subject To Unacceptable Behavior for more details.
+- Be mindful of your surroundings and of your fellow participants. Alert a member of the staff or organizing team, identifiable by t-shirt & badge (further description pending), if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. Please refer to the section titled, What To Do If You Witness or Are Subject To Unacceptable Behavior for more details.
+- Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ## Unacceptable Behavior
 
