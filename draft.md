@@ -1,6 +1,6 @@
 # ECML-PKDD 2020 Code of Conduct
 
-The organizers of [ECML/PKDD 2020](https://ecmlpkdd2020.net/) are dedicated to providing a welcoming inclusive and harassment-free conference experience for everyone regardless of age, color, race, ethnicity, physical appearance, disability, family status, gender identity, sex, sexual orientation, nationality, labor union membership, military status, religion or belief (or lack or thereof), political opinion, or any other factor.
+The organizers of [ECML/PKDD 2020](https://ecmlpkdd2020.net/) are dedicated to providing a welcoming inclusive and harassment-free conference experience for everyone regardless of age, color, race, ethnicity, physical appearance, disability, family status, gender identity, sex, sexual orientation, nationality, labor union membership, military status, religion or belief (or lack or thereof), political opinion (insofar they do not lead to disrespect for others), or any other factor.
 
 All participants (including attendees, speakers, sponsors and volunteers) at ECML-PKDD 2020 are required to agree to the following code of conduct.
 
