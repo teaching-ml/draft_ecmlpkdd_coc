@@ -24,16 +24,19 @@ All conference participants agree to:
 
 Behavior that is unacceptable includes, but is not limited to:
 
-- Stalking
-- Deliberate intimidation (including via inappropriate 
-
-irrespecutful tone of voice)
-- Unwanted photography or recording
-- Sustained or willful disruption of talks or other events
-- Use of sexual or discriminatory imagery, comments, or jokes
-- Offensive comments related to age, gender, sexual orientation, disability, race or religion
-- Inappropriate physical contact, which can include grabbing, or massaging or hugging without consent
+- Written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
+- Causing someone to fear for their safety, such as through stalking, following, or intimidation
+- Violent threats or language directed against another person
+- Display of sexual or violent images
 - Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information
+- Nonconsensual or unwelcome physical contact
+- Sustained disruption of talks, events or communications
+- Insults or put downs (including via inappropriate irrespecutful tone of voice)
+- Use of sexualised or discriminatory imagery, comments, or jokes
+- Excessive swearing
+- Incitement to violence, suicide, or self-harm
+- Continuing to initiate unwanted interaction (including photography or recording) with someone after being asked to stop
+- Publication of private communication without consent
 
 If you are asked to stop harassing behaviour you should stop immediately. Even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all conference attendees you should stop.  
 
@@ -45,7 +48,7 @@ Presentation slides and posters should not contain offensive or sexualised mater
 
 ## Additional Requirements for Sponsors  
 
-Sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment. In case of violations, sanctions may be applied without return of sponsorship contribution.  
+Sponsors should not use sexualised images, activities, or other material. Both staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment. In case of violations, sanctions may be applied without return of sponsorship contribution.  
 
 ## Procedure for Code of Conduct Violations
 
@@ -72,7 +75,7 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 Conference staff will also provide support to victims, including, but not limited to:
 
-- Providing an escort within ECML-PKDD 2020 and affiliated events.
+- Providing an companion within ECML-PKDD 2020 and affiliated events.
 - Contacting hotel/venue security or local law enforcement
 - Briefing key event staff for response/victim assistance
 - And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference
