@@ -29,9 +29,9 @@ Behavior that is unacceptable includes, but is not limited to:
 - Violent threats or language directed against another person
 - Display of sexual or violent images
 - Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information
-- Nonconsensual or unwelcome physical contact
+- Non-consensual or unwelcome physical contact
 - Sustained disruption of talks, events or communications
-- Insults or put downs (including via inappropriate irrespecutful tone of voice)
+- Insults or put downs (including via inappropriate irrespectful tone of voice)
 - Use of sexualised or discriminatory imagery, comments, or jokes
 - Excessive swearing
 - Incitement to violence, suicide, or self-harm
