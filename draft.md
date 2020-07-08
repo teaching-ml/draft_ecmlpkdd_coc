@@ -65,7 +65,7 @@ Refunds may not be given in case of expulsion.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact any member of the ECML-PKDD 2020 staff. 
 
-Event staff will be clearly identified during the event.  You can also contact the Inclusion and Diversity Chairs or the General Chair directly via email: [inclusion_chairs@ecmlpkdd2020.net](mailto:inclusion_chairs@ecmlpkdd2020.net) or [gc_chairs@ecmlpkdd2020.net](mailto:gc_chairs@ecmlpkdd2020.net).
+Event staff will be clearly identified during the event.  You can also contact the Inclusion and Diversity Chairs or the General Chair via the conference app (whova), or directly via email: [inclusion_chairs@ecmlpkdd2020.net](mailto:inclusion_chairs@ecmlpkdd2020.net) or [gc_chairs@ecmlpkdd2020.net](mailto:gc_chairs@ecmlpkdd2020.net).
 
 We will take all good-faith reports of harassment by ECML-PKDD 2020 participants seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The ECML-PKDD 2020 organizing committee reserves the right to exclude people from ECML-PKDD 2020 based on their past behavior, including behavior outside ECML-PKDD 2020 spaces and behavior towards people who are not part of ECML-PKDD 2020.  
 
@@ -80,13 +80,13 @@ Conference staff will also provide support to victims, including, but not limite
 - Briefing key event staff for response/victim assistance
 - And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference
 
-*The ECML-PKDD 2020 Inclusion and Diversity Chairs* [inclusion_chairs@ecmlpkdd.net](inclusion_chairs@ecmlpkdd.net)
+*The ECML-PKDD 2020 Inclusion and Diversity Chairs* ([inclusion_chairs@ecmlpkdd.net](inclusion_chairs@ecmlpkdd.net))
 - Michele Berlingerio (michele.berlingerio_at_gmail.com)
 - Oliver Guhr (oliver.guhr_at_htw-dresden.de)
 - Heidi Seibold (Heidi.Seibold_at_stat.uni-muenchen.de)
 - Peter Steinbach (p.steinbach_at_hzdr.de)
 
-*The ECML-PKDD 2020 General Chair* [gc_chairs@ecmlpkdd2020.net](gc_chairs@ecmlpkdd2020.net)
+*The ECML-PKDD 2020 General Chair* ([gc_chairs@ecmlpkdd2020.net](gc_chairs@ecmlpkdd2020.net))
 - Tijl De Bie (tijl.debie_at_ugent.be)
 
 Questions or concerns about the Code of Conduct can be addressed to [gc_chairs@ecmlpkdd2020.net](mailto:gc_chairs@ecmlpkdd2020.net).
