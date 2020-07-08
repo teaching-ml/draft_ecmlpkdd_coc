@@ -81,13 +81,13 @@ Conference staff will also provide support to victims, including, but not limite
 - And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference
 
 *The ECML-PKDD 2020 Inclusion and Diversity Chairs* [inclusion_chairs@ecmlpkdd.net](inclusion_chairs@ecmlpkdd.net)
-Michele Berlingerio (michele.berlingerio_at_gmail.com)
-Oliver Guhr (oliver.guhr_at_htw-dresden.de)
-Heidi Seibold (Heidi.Seibold_at_stat.uni-muenchen.de)
-Peter Steinbach (p.steinbach_at_hzdr.de)
+- Michele Berlingerio (michele.berlingerio_at_gmail.com)
+- Oliver Guhr (oliver.guhr_at_htw-dresden.de)
+- Heidi Seibold (Heidi.Seibold_at_stat.uni-muenchen.de)
+- Peter Steinbach (p.steinbach_at_hzdr.de)
 
 *The ECML-PKDD 2020 General Chair* [gc_chairs@ecmlpkdd2020.net](gc_chairs@ecmlpkdd2020.net)
-Tijl De Bie (tijl.debie_at_ugent.be)
+- Tijl De Bie (tijl.debie_at_ugent.be)
 
 Questions or concerns about the Code of Conduct can be addressed to [gc_chairs@ecmlpkdd2020.net](mailto:gc_chairs@ecmlpkdd2020.net).
 
