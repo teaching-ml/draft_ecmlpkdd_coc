@@ -1,6 +1,6 @@
 # ECML-PKDD 2020 Code of Conduct
 
-The organizers of [ECML/PKDD 2020](https://ecmlpkdd2020.net/) are dedicated to providing a welcoming inclusive and harassment-free conference experience for everyone regardless of age, color, race, ethnicity, physical appearance, disability, family status, gender identity, sex, sexual orientation, nationality, labor union membership, military status, religion or belief (or lack or thereof), political opinion (insofar they do not lead to disrespect for others), or any other factor.
+The organizers of [ECML/PKDD 2020](https://ecmlpkdd2020.net/) are dedicated to providing a welcoming, inclusive, and harassment-free conference experience for everyone regardless of age, color, race, ethnicity, physical appearance, disability, family status, gender identity, sex, sexual orientation, nationality, labor union membership, military status, religion or belief (or lack or thereof), political opinion (insofar it does not lead to disrespect for others), or any other factor.
 
 All participants (including attendees, speakers, sponsors and volunteers) at ECML-PKDD 2020 are required to agree to the following code of conduct.
 
@@ -17,8 +17,8 @@ All conference participants agree to:
 - Attempt collaboration before conflict.
 - Be considerate in language and actions, and respect the boundaries of fellow participants.
 - Refrain from demeaning, discriminatory, or harassing behaviour and language. Please refer to Unacceptable Behavior for more details.
-- Be mindful of your surroundings and of your fellow participants. Alert a member of the staff or organizing team, identifiable by t-shirt & badge (further description pending), if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. Please refer to the section titled, What To Do If You Witness or Are Subject To Unacceptable Behavior for more details.
-- Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+- Be mindful of your surroundings and of your fellow participants. Alert a member of the staff or organizing team, who will be clearly identified as such, if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. Please refer to the section titled, What To Do If You Witness or Are Subject To Unacceptable Behavior for more details.
+- Remember that community event venues (should the conference contain a physical on-site component) may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ## Unacceptable Behavior
 
@@ -63,30 +63,33 @@ Refunds may not be given in case of expulsion.
 
 ## What To Do If You Witness or Are Subject To Unacceptable Behavior
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the ECML-PKDD 2020 staff.  
+If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact any member of the ECML-PKDD 2020 staff. 
 
-Event staff can be identified by t-shirt & badge (further description pending) during the event.  A member of the organizing staff can be found at the event registration counter at any time. You can also contact **[provide contact name], via email: [email@mail.org](mailto:email@mail.org) or phone: 123456789.**  
+Event staff will be clearly identified during the event.  You can also contact the Inclusion and Diversity Chairs or the General Chair directly via email: [inclusion_chairs@ecmlpkdd2020.net](mailto:inclusion_chairs@ecmlpkdd2020.net) or [gc_chairs@ecmlpkdd2020.net](mailto:gc_chairs@ecmlpkdd2020.net).
 
 We will take all good-faith reports of harassment by ECML-PKDD 2020 participants seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The ECML-PKDD 2020 organizing committee reserves the right to exclude people from ECML-PKDD 2020 based on their past behavior, including behavior outside ECML-PKDD 2020 spaces and behavior towards people who are not part of ECML-PKDD 2020.  
 
 We reserve the right to reject any report we believe to have been made in bad faith. This includes reports intended to silence legitimate criticism.  
 
-We will respect confidentiality requests for the purpose of protecting victims of abuse. We will not name harassment victims without their affirmative consent. All data is stored securely access will only be limited to Anna Kratky, the Saint Louis University Title IX Office, and select members of the ECML-PKDD 2020 Diversity, Equity, & Inclusion Leadership team (specific members listed below).
+We will respect confidentiality requests for the purpose of protecting victims of abuse. We will not name harassment victims without their affirmative consent. All data will be stored securely, and access will be limited to the Inclusion and Diversity Chairs (see specific members below) and the General Chair of ECML-PKDD 2020, or if you prefer any subset thereof.
 
 Conference staff will also provide support to victims, including, but not limited to:
 
-- Providing an companion within ECML-PKDD 2020 and affiliated events.
-- Contacting hotel/venue security or local law enforcement
+- Providing a companion within ECML-PKDD 2020 and affiliated events (should the event have a physical on-site component)
+- Contacting hotel/venue security or local law enforcement (should the event have a physical on-site component)
 - Briefing key event staff for response/victim assistance
 - And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference
 
-*ECML-PKDD 2020 Diversity, Equity, & Inclusion Leadership*
+*The ECML-PKDD 2020 Inclusion and Diversity Chairs* [inclusion_chairs@ecmlpkdd.net](inclusion_chairs@ecmlpkdd.net)
+Michele Berlingerio (michele.berlingerio_at_gmail.com)
+Oliver Guhr (oliver.guhr_at_htw-dresden.de)
+Heidi Seibold (Heidi.Seibold_at_stat.uni-muenchen.de)
+Peter Steinbach (p.steinbach_at_hzdr.de)
 
-[Name 1]  
-[Name 2]  
-[Name 3]  
+*The ECML-PKDD 2020 General Chair* [gc_chairs@ecmlpkdd2020.net](gc_chairs@ecmlpkdd2020.net)
+Tijl De Bie (tijl.debie_at_ugent.be)
 
-Questions or concerns about the Code of Conduct can be addressed to [gc_chairs@ecmlpkdd2020.net](mailto:gc_chairs@ecmlpkdd2020.net). 
+Questions or concerns about the Code of Conduct can be addressed to [gc_chairs@ecmlpkdd2020.net](mailto:gc_chairs@ecmlpkdd2020.net).
 
 
 ## Acknowledgements
